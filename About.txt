@@ -1,0 +1,28 @@
+
+
+
+****** Heart Attack Risk Prediction Using Neural Network ******
+
+Semester: Summer-21
+
+
+#Course Instructor:
+
+	Dr. Md Samiullah
+	Adjunct Faculty, Department of Computer Science and Engineering
+	E-mail: samiullah@ewubd.edu
+
+
+
+
+# Contributors:
+
+	1. Md. Ashikur Rahman (2018-2-60-130)
+
+	2. MD. Saif Laskar (2018-2-60-085)
+
+	3. Samir Asif (2018-2-60-116)
+
+	4. Sayed Monshurul Alam (2018-2-60-123)
+
+
